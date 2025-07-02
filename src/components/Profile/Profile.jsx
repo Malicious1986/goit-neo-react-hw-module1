@@ -1,5 +1,6 @@
-import styles from "./Profile.module.css";
 import clsx from "clsx";
+
+import styles from "./Profile.module.css";
 import Stat from "../Stat/Stat";
 
 export default function Profile(props) {

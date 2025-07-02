@@ -1,4 +1,5 @@
 import clsx from "clsx";
+
 import styles from "./FriendListItem.module.css";
 
 export default function FriendListItem(props) {
